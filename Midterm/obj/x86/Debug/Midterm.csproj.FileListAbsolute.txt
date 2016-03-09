@@ -1,0 +1,5 @@
+c:\users\harold\documents\visual studio 2010\Projects\Midterm\Midterm\bin\Debug\Midterm.exe
+c:\users\harold\documents\visual studio 2010\Projects\Midterm\Midterm\bin\Debug\Midterm.pdb
+c:\users\harold\documents\visual studio 2010\Projects\Midterm\Midterm\obj\x86\Debug\Midterm.exe
+c:\users\harold\documents\visual studio 2010\Projects\Midterm\Midterm\obj\x86\Debug\Midterm.pdb
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Midterm\Midterm\obj\x86\Debug\Midterm.csprojResolveAssemblyReference.cache
